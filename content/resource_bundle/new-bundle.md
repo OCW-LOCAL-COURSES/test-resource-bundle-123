@@ -5,6 +5,7 @@ draft: true
 resources:
   content:
   - eee1c5da-1821-41c6-9404-c5cb7c98a4c4
+  - 52335feb-c710-4729-94dd-2c51d43f5b41
   website: test-resource-bundle-123
 title: new bundle
 uid: abb9a9e6-d578-49b4-ad26-823cd2783f37
