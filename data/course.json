@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-resource-bundle-123"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-resource-bundle-123"
+  },
+  "course_title": "21W",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-resource-bundle-123"
+  },
+  "learning_resource_types": [],
+  "site_uid": "fc70d548-4039-4bba-a4f4-6cbc503cc314"
+}
